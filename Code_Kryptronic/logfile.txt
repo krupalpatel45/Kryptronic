@@ -1,0 +1,63 @@
+.LOG
+11:15 PM 23-Aug-18
+
+
+Name: Krupal Patel
+ID: 200385434
+CS215-Assignment 4
+
+Files submitted:
+cartpage.php
+homepage.php
+productpage.php
+profilepage.php
+signup.php
+allproducts.php
+adminpage.php
+AorRcatagory.php
+Rproduct.php
+welcomepage.php
+
+create_login.php
+create_wishlist.php
+createcatagories.php
+create_cart.php
+cart_process.php
+prod_table.php
+
+phones.php
+accessories.php
+smartwatch.php
+tablet.php
+
+modal_box.php
+
+mystyle.css
+modal_box.css
+modal_ajax.js
+validation.js
+
+
+
+link to my website:
+http://www2.cs.uregina.ca/~kpg511/Assignment/homepage.php
+
+
+validations:
+>https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww2.cs.uregina.ca%2F%7Ekpg511%2FAssignment%2Fhomepage.php
+
+>https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww2.cs.uregina.ca%2F%7Ekpg511%2FAssignment%2Fadminpage.php
+
+>https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww2.cs.uregina.ca%2F%7Ekpg511%2FAssignment%2FAorRcategory.php
+
+>https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww2.cs.uregina.ca%2F%7Ekpg511%2FAssignment%2FRproduct.php
+
+>https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww2.cs.uregina.ca%2F%7Ekpg511%2FAssignment%2Fsignup.php
+
+>https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww2.cs.uregina.ca%2F%7Ekpg511%2FAssignment%2Fprofilepage.php
+
+>https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww2.cs.uregina.ca%2F%7Ekpg511%2FAssignment%2Fproductpage.php
+
+>https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww2.cs.uregina.ca%2F%7Ekpg511%2FAssignment%2Fcartpage.php
+
+11:15 PM 23-Aug-18

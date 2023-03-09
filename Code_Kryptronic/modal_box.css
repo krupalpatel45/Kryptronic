@@ -1,0 +1,43 @@
+img {
+  max-width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin-right: 0.5%
+}
+
+img:hover {
+    border: 1px solid #777;
+}
+.lightbox-opened {
+  background-color: #333;
+  background-color: rgba(#333, 0.9);
+  cursor: pointer;
+  height: 100%;
+  left: 10px;
+  overflow-y: scroll;
+  padding: 24px;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  width: 100%;
+
+  &:before {
+    background-color: #333;
+    background-color: rgba(#333, 0.9);
+    color: #eee;
+    content: "x";
+    font-family: sans-serif;
+    padding: 6px 12px;
+    position: fixed;
+    text-transform: uppercase;
+  }
+
+  img {
+    box-shadow: 0 0 6px 3px #333;
+  }
+}
+
+// No Background Scroll
+
+.no-scroll {
+  overflow: hidden;
+}
